@@ -23,7 +23,8 @@
     "iron-collapse": "PolymerElements/iron-collapse#1 - 2",
     "iron-behaviors": "PolymerElements/iron-behaviors#1 - 2",
     "iron-icon": "#1 - 2",
-    "iron-a11y-keys-behavior": "PolymerElements/iron-a11y-keys-behavior#1 - 2"
+    "iron-a11y-keys-behavior": "PolymerElements/iron-a11y-keys-behavior#1 - 2",
+    "paper-menu-button": "PolymerElements/paper-menu-button#^2.0.0"
   },
   "repository": {
     "type": "git",
